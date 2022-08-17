@@ -83,7 +83,7 @@ input:focus {
   border: none;
   background-color: transparent;
   position: absolute;
-  top: 12px;
+  top: 10px;
   display: flex;
   right: 7px;
   cursor: pointer;
